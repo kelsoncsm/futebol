@@ -38,6 +38,7 @@ function AddTimes() {
 
 function shuffleArray(lista) {
 
+
     const newArray = [];
     let number = Math.floor(Math.random() * lista.length);
     let count = 1;
